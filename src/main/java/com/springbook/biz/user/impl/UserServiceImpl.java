@@ -18,7 +18,7 @@ public class UserServiceImpl implements UserService {
 	public void setUserDAO(UserDAO userDAO) {
 		this.userDAO = userDAO;
 	}
-
+/**/
 	@Override
 	public UserVO getUser(UserVO vo) {
 		// TODO Auto-generated method stub
